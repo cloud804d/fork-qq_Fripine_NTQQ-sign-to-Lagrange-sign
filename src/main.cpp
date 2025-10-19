@@ -9,7 +9,7 @@
 void init()
 {
 #if defined(_WIN_PLATFORM_)
-    std::string version = "9.9.20-37051";
+    std::string version = "9.9.21-39038";
     try
     {
         TCHAR pathm[MAX_PATH];
